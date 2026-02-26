@@ -1,4 +1,5 @@
 !!! FFmpeg required !!!
+
 🇷🇴
 1. https://github.com/BtbN/FFmpeg-Builds/releases
 2. instaleaza ffmpeg-master-latest-win64-gpl.zip
